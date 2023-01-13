@@ -62,6 +62,7 @@ color: inherit;
      width:100%;
      overflow: hidden;
      position: relative;
+     object-fit: cover;
 }
 
 #cover-text #cover-text h2{
